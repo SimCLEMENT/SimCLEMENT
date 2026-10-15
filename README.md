@@ -17,9 +17,9 @@
 ## 📂 Projets à voir
 
 - **[ViKingTransport](https://github.com/SimCLEMENT/ViKingTransport)** : site web PHP/SQL (projet de groupe)
-- **Gribouille** : application Java
-- **JeuEnC** : jeu développé en C
-- **js-memory-game** : jeu de mémoire en JavaScript
+- **[Gribouille](https://github.com/SimCLEMENT/Gribouille)** : application Java
+- **[JeuEnC](https://github.com/SimCLEMENT/JeuEnC)** : jeu développé en C
+- **[js-memory-game](https://github.com/SimCLEMENT/js-memory-game)** : jeu de mémoire en JavaScript
 
 ## 💡 À côté du code
 
