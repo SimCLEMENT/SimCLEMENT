@@ -16,7 +16,7 @@
 
 ## 📂 Projets à voir
 
-- **ViKingTransport** : site web PHP/SQL (projet de groupe)
+- **[ViKingTransport](https://github.com/SimCLEMENT/ViKingTransport)** : site web PHP/SQL (projet de groupe)
 - **Gribouille** : application Java
 - **JeuEnC** : jeu développé en C
 - **js-memory-game** : jeu de mémoire en JavaScript
