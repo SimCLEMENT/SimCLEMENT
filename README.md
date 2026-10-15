@@ -23,7 +23,24 @@
 
 ## 💡 À côté du code
 
-Serveur perso, bases de données et hardware, tennis, surf, et commissaire de piste en sport automobile.
+Mon **homelab** (voir plus bas), bases de données et hardware, tennis, surf, et commissaire de piste en sport automobile.
+
+## 🖥️ Mon homelab
+
+J'ai transformé un **Dell Wyse 5070** (mini PC recyclé) en serveur personnel pour héberger mes projets et apprendre l'administration système.
+
+**Ce que j'ai mis en place**
+- **Ubuntu Server 26.04 LTS** installé et configuré, administré à distance en **SSH**
+- **Accès distant sécurisé** avec **Tailscale** (VPN), et exposition de certains services sur Internet via **Tailscale Funnel**
+- **Docker / Docker Compose** pour isoler et déployer chaque service dans son propre conteneur
+- **Nextcloud** : mon cloud personnel (MariaDB + Nextcloud), avec stockage de photos et génération d'aperçus
+- **[ViKingTransport](https://github.com/SimCLEMENT/ViKingTransport)** : mon projet scolaire PHP de réservation de billets de bus, déployé en ligne
+
+**Ce que j'ai appris**
+- Migrer une base de données d'**Oracle vers MariaDB** et adapter le code PHP (requêtes SQL, dates, encodage…)
+- Sécuriser un projet avant de le publier : identifiants sortis du code vers un fichier `.env` ignoré par Git
+- Créer des déploiements reproductibles avec un **Dockerfile** personnalisé
+- Gérer le réseau : HTTPS derrière un proxy, plusieurs services sur une même machine (ports différents), accès externe sans toucher à la configuration de la box
 
 ## 📫 Me contacter
 
